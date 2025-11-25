@@ -1,5 +1,3 @@
-# Hidden-Aces-Cryptid
-Crash log when combining these mods
 Oops! The game crashed:
 [SMODS _ "src/utils.lua"]:2634: bad argument #2 to 'max' (number expected, got nil)
 
